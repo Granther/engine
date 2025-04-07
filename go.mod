@@ -1,4 +1,4 @@
-module github.com/Granther/engine
+module github.com/g3n/engine
 
 go 1.13
 
